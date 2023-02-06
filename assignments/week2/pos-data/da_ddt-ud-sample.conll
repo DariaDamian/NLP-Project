@@ -1,0 +1,2000 @@
+# sent_id = train-v2-0
+# text = På fredag har SID inviteret til reception i SID-huset i anledning af at formanden Kjeld Christensen går ind i de glade tressere.
+På	ADP
+fredag	NOUN
+har	AUX
+SID	PROPN
+inviteret	VERB
+til	ADP
+reception	NOUN
+i	ADP
+SID-huset	NOUN
+i	ADP
+anledning	NOUN
+af	ADP
+at	SCONJ
+formanden	NOUN
+Kjeld	PROPN
+Christensen	PROPN
+går	VERB
+ind	ADV
+i	ADP
+de	DET
+glade	ADJ
+tressere	NOUN
+.	PUNCT
+
+# sent_id = train-v2-1
+# text = Eller slet og ret tykke og fede i mere eller mindre grad, som en enkelt udtrykker det.
+Eller	CCONJ
+slet	ADV
+og	CCONJ
+ret	ADV
+tykke	ADJ
+og	CCONJ
+fede	ADJ
+i	ADP
+mere	ADJ
+eller	CCONJ
+mindre	ADJ
+grad	NOUN
+,	PUNCT
+som	PRON
+en	DET
+enkelt	ADJ
+udtrykker	VERB
+det	PRON
+.	PUNCT
+
+# sent_id = train-v2-2
+# text = Under rejser og ophold i udlandet følger sygeplejersker og hjælpere med.
+Under	ADP
+rejser	NOUN
+og	CCONJ
+ophold	NOUN
+i	ADP
+udlandet	NOUN
+følger	VERB
+sygeplejersker	NOUN
+og	CCONJ
+hjælpere	NOUN
+med	ADV
+.	PUNCT
+
+# sent_id = train-v2-3
+# text = Hele det smukt restaurerede hus vrimler med børn - Elise Gug har selv tre - og andelsforeningen er så glad for selskabeligt samvær, at den har egen café og festlokale.
+Hele	ADJ
+det	DET
+smukt	ADV
+restaurerede	VERB
+hus	NOUN
+vrimler	VERB
+med	ADP
+børn	NOUN
+-	PUNCT
+Elise	PROPN
+Gug	PROPN
+har	VERB
+selv	PRON
+tre	NUM
+-	PUNCT
+og	CCONJ
+andelsforeningen	NOUN
+er	AUX
+så	ADV
+glad	ADJ
+for	ADP
+selskabeligt	ADJ
+samvær	NOUN
+,	PUNCT
+at	SCONJ
+den	PRON
+har	VERB
+egen	ADJ
+café	NOUN
+og	CCONJ
+festlokale	NOUN
+.	PUNCT
+
+# sent_id = train-v2-4
+# text = Hun er selv på femte år lykkeligt gift med sin socialdemokratiske partifælle, Mogens Lykketoft.
+Hun	PRON
+er	AUX
+selv	PRON
+på	ADP
+femte	ADJ
+år	NOUN
+lykkeligt	ADV
+gift	ADJ
+med	ADP
+sin	DET
+socialdemokratiske	ADJ
+partifælle	NOUN
+,	PUNCT
+Mogens	PROPN
+Lykketoft	PROPN
+.	PUNCT
+
+# sent_id = train-v2-5
+# text = I 1983 ville en mand have navneforandring til Werwolf, men det fik han ikke lov til, for det betragtes som upassende og anstødeligt.
+I	ADP
+1983	NUM
+ville	AUX
+en	DET
+mand	NOUN
+have	VERB
+navneforandring	NOUN
+til	ADP
+Werwolf	PROPN
+,	PUNCT
+men	CCONJ
+det	PRON
+fik	VERB
+han	PRON
+ikke	ADV
+lov	NOUN
+til	ADP
+,	PUNCT
+for	CCONJ
+det	PRON
+betragtes	VERB
+som	ADP
+upassende	ADJ
+og	CCONJ
+anstødeligt	ADJ
+.	PUNCT
+
+# sent_id = train-v2-6
+# text = Bare ikke i år, advarer lægerne
+Bare	ADV
+ikke	ADV
+i	ADP
+år	NOUN
+,	PUNCT
+advarer	VERB
+lægerne	NOUN
+
+# sent_id = train-v2-7
+# text = Kopieret
+Kopieret	VERB
+
+# sent_id = train-v2-8
+# text = Når forløbet i kommunalt regi slutter til december, håber hun, at hendes og mandens firma er vokset stort nok til, at hun kan blive ansat på fuld tid.
+Når	SCONJ
+forløbet	NOUN
+i	ADP
+kommunalt	ADJ
+regi	NOUN
+slutter	VERB
+til	ADP
+december	NOUN
+,	PUNCT
+håber	VERB
+hun	PRON
+,	PUNCT
+at	SCONJ
+hendes	DET
+og	CCONJ
+mandens	NOUN
+firma	NOUN
+er	AUX
+vokset	VERB
+stort	ADJ
+nok	ADV
+til	ADP
+,	PUNCT
+at	SCONJ
+hun	PRON
+kan	AUX
+blive	AUX
+ansat	VERB
+på	ADP
+fuld	ADJ
+tid	NOUN
+.	PUNCT
+
+# sent_id = train-v2-9
+# text = Den enestående bil vandt i denne specielle disciplin i konkurrence med 73 andre specialbyggede biler på Silverstone-banen i Storbritannien.
+Den	DET
+enestående	ADJ
+bil	NOUN
+vandt	VERB
+i	ADP
+denne	DET
+specielle	ADJ
+disciplin	NOUN
+i	ADP
+konkurrence	NOUN
+med	ADP
+73	NUM
+andre	DET
+specialbyggede	ADJ
+biler	NOUN
+på	ADP
+Silverstone-banen	NOUN
+i	ADP
+Storbritannien	PROPN
+.	PUNCT
+
+# sent_id = train-v2-10
+# text = Steen Gade siger, at SF ikke kan gå med til fælles forsvar, den økonomisk-monetære union, unionsborgerskab og dele af det retslige samarbejde.
+Steen	PROPN
+Gade	PROPN
+siger	VERB
+,	PUNCT
+at	SCONJ
+SF	PROPN
+ikke	ADV
+kan	AUX
+gå	VERB
+med	ADV
+til	ADP
+fælles	ADJ
+forsvar	NOUN
+,	PUNCT
+den	DET
+økonomisk-monetære	ADJ
+union	NOUN
+,	PUNCT
+unionsborgerskab	NOUN
+og	CCONJ
+dele	NOUN
+af	ADP
+det	DET
+retslige	ADJ
+samarbejde	NOUN
+.	PUNCT
+
+# sent_id = train-v2-11
+# text = En anden satte ild til sig selv.
+En	PRON
+anden	PRON
+satte	VERB
+ild	NOUN
+til	ADP
+sig	PRON
+selv	PRON
+.	PUNCT
+
+# sent_id = train-v2-12
+# text = Det er Peter Elmegaard, der sørger for at købe skoene hjem og står i butikken til hverdag.
+Det	PRON
+er	AUX
+Peter	PROPN
+Elmegaard	PROPN
+,	PUNCT
+der	PRON
+sørger	VERB
+for	ADP
+at	PART
+købe	VERB
+skoene	NOUN
+hjem	ADV
+og	CCONJ
+står	VERB
+i	ADP
+butikken	NOUN
+til	ADP
+hverdag	NOUN
+.	PUNCT
+
+# sent_id = train-v2-13
+# text = Foruden at være et tilløbsstykke for "klorofyl-turister" er Robinson Crusoe et paradis for dem, der kan lide hummer.
+Foruden	ADP
+at	PART
+være	AUX
+et	DET
+tilløbsstykke	NOUN
+for	ADP
+"	PUNCT
+klorofyl-turister	NOUN
+"	PUNCT
+er	AUX
+Robinson	PROPN
+Crusoe	PROPN
+et	DET
+paradis	NOUN
+for	ADP
+dem	PRON
+,	PUNCT
+der	PRON
+kan	AUX
+lide	VERB
+hummer	NOUN
+.	PUNCT
+
+# sent_id = train-v2-14
+# text = Uden ble løber barnets diarré ned over pigens lår.
+Uden	ADP
+ble	NOUN
+løber	VERB
+barnets	NOUN
+diarré	NOUN
+ned	ADV
+over	ADP
+pigens	NOUN
+lår	NOUN
+.	PUNCT
+
+# sent_id = train-v2-15
+# text = - De er s'gu ret flot, sagde jeg.
+-	PUNCT
+De	PRON
+er	AUX
+s'gu	ADV
+ret	ADV
+flot	ADJ
+,	PUNCT
+sagde	VERB
+jeg	PRON
+.	PUNCT
+
+# sent_id = train-v2-16
+# text = De må lære at acceptere forskelligheder uden at udgrænse den.
+De	PRON
+må	AUX
+lære	VERB
+at	PART
+acceptere	VERB
+forskelligheder	NOUN
+uden	ADP
+at	PART
+udgrænse	VERB
+den	PRON
+.	PUNCT
+
+# sent_id = train-v2-17
+# text = For otte millioner pund er byttet "Living Legend", hvor man bliver ført gennem hele historien med billeder, lyd, tåge, lyn, torden, storm og andre effekter.
+For	CCONJ
+otte	NUM
+millioner	NOUN
+pund	NOUN
+er	AUX
+byttet	NOUN
+"	PUNCT
+Living	PROPN
+Legend	PROPN
+"	PUNCT
+,	PUNCT
+hvor	ADV
+man	PRON
+bliver	AUX
+ført	VERB
+gennem	ADP
+hele	ADJ
+historien	NOUN
+med	ADP
+billeder	NOUN
+,	PUNCT
+lyd	NOUN
+,	PUNCT
+tåge	NOUN
+,	PUNCT
+lyn	NOUN
+,	PUNCT
+torden	NOUN
+,	PUNCT
+storm	NOUN
+og	CCONJ
+andre	DET
+effekter	NOUN
+.	PUNCT
+
+# sent_id = train-v2-18
+# text = "Jeg vidste, at de kunne blive til et eller andet stort, så jeg gik hen og spurgte, om de kunne rappe."
+"	PUNCT
+Jeg	PRON
+vidste	VERB
+,	PUNCT
+at	SCONJ
+de	PRON
+kunne	AUX
+blive	VERB
+til	ADP
+et	DET
+eller	CCONJ
+andet	PRON
+stort	ADJ
+,	PUNCT
+så	SCONJ
+jeg	PRON
+gik	VERB
+hen	ADV
+og	CCONJ
+spurgte	VERB
+,	PUNCT
+om	SCONJ
+de	PRON
+kunne	AUX
+rappe	VERB
+.	PUNCT
+"	PUNCT
+
+# sent_id = train-v2-19
+# text = Alene i Hamburg skulle de have has på 750 ton ophobet skrald.
+Alene	ADV
+i	ADP
+Hamburg	PROPN
+skulle	AUX
+de	PRON
+have	VERB
+has	NOUN
+på	ADP
+750	NUM
+ton	NOUN
+ophobet	VERB
+skrald	NOUN
+.	PUNCT
+
+# sent_id = train-v2-20
+# text = - Få den UD AF MIN KANO! siger han.
+-	PUNCT
+Få	VERB
+den	PRON
+UD	ADV
+AF	ADP
+MIN	DET
+KANO	NOUN
+!	PUNCT
+siger	VERB
+han	PRON
+.	PUNCT
+
+# sent_id = train-v2-21
+# text = Navnlig, hvis forhandleren giver et godt bud på den brugte bil - og lokker med en fiks finansierings-model.
+Navnlig	ADV
+,	PUNCT
+hvis	SCONJ
+forhandleren	NOUN
+giver	VERB
+et	DET
+godt	ADJ
+bud	NOUN
+på	ADP
+den	DET
+brugte	ADJ
+bil	NOUN
+-	PUNCT
+og	CCONJ
+lokker	VERB
+med	ADP
+en	DET
+fiks	ADJ
+finansierings-model	NOUN
+.	PUNCT
+
+# sent_id = train-v2-22
+# text = Det drejer sig om 240 hektar og det område skal have karakter af en stor bypark.
+Det	PRON
+drejer	VERB
+sig	PRON
+om	ADP
+240	NUM
+hektar	NOUN
+og	CCONJ
+det	DET
+område	NOUN
+skal	AUX
+have	VERB
+karakter	NOUN
+af	ADP
+en	DET
+stor	ADJ
+bypark	NOUN
+.	PUNCT
+
+# sent_id = train-v2-23
+# text = At rende med aviser som bibeskæftigelse kunne være lykken, hvis man også fik en rimelig løn ud af det
+At	PART
+rende	VERB
+med	ADP
+aviser	NOUN
+som	ADP
+bibeskæftigelse	NOUN
+kunne	AUX
+være	AUX
+lykken	NOUN
+,	PUNCT
+hvis	SCONJ
+man	PRON
+også	ADV
+fik	VERB
+en	DET
+rimelig	ADJ
+løn	NOUN
+ud	ADV
+af	ADP
+det	PRON
+
+# sent_id = train-v2-24
+# text = Samlingen af hans artikler og foredrag fra de sidste ti år røber, at verden savner den ægte vare, romanen.
+Samlingen	NOUN
+af	ADP
+hans	DET
+artikler	NOUN
+og	CCONJ
+foredrag	NOUN
+fra	ADP
+de	DET
+sidste	ADJ
+ti	NUM
+år	NOUN
+røber	VERB
+,	PUNCT
+at	SCONJ
+verden	NOUN
+savner	VERB
+den	DET
+ægte	ADJ
+vare	NOUN
+,	PUNCT
+romanen	NOUN
+.	PUNCT
+
+# sent_id = train-v2-25
+# text = "Det er jo slet ikke noget ukendt fænomen, at mænd er blevet bidt i nævnte legemsdel.
+"	PUNCT
+Det	PRON
+er	AUX
+jo	ADV
+slet	ADV
+ikke	ADV
+noget	DET
+ukendt	ADJ
+fænomen	NOUN
+,	PUNCT
+at	SCONJ
+mænd	NOUN
+er	AUX
+blevet	AUX
+bidt	VERB
+i	ADP
+nævnte	VERB
+legemsdel	NOUN
+.	PUNCT
+
+# sent_id = train-v2-26
+# text = Algerne ventes at dø i løbet af nogle uger, men forrådnelsen kræver så megen ilt, at fisk, der ikke i tide slipper væk, vil dø.-søwo
+Algerne	NOUN
+ventes	VERB
+at	PART
+dø	VERB
+i	ADP
+løbet	NOUN
+af	ADP
+nogle	DET
+uger	NOUN
+,	PUNCT
+men	CCONJ
+forrådnelsen	NOUN
+kræver	VERB
+så	ADV
+megen	ADJ
+ilt	NOUN
+,	PUNCT
+at	SCONJ
+fisk	NOUN
+,	PUNCT
+der	PRON
+ikke	ADV
+i	ADP
+tide	NOUN
+slipper	VERB
+væk	ADV
+,	PUNCT
+vil	VERB
+dø.-søwo	X
+
+# sent_id = train-v2-27
+# text = Nu har vi fået en ny justitsminister, som følger loven, men det vil de selvsamme partier ikke finde sig i.
+Nu	ADV
+har	AUX
+vi	PRON
+fået	VERB
+en	DET
+ny	ADJ
+justitsminister	NOUN
+,	PUNCT
+som	PRON
+følger	VERB
+loven	NOUN
+,	PUNCT
+men	CCONJ
+det	PRON
+vil	AUX
+de	DET
+selvsamme	ADJ
+partier	NOUN
+ikke	ADV
+finde	VERB
+sig	PRON
+i	ADP
+.	PUNCT
+
+# sent_id = train-v2-28
+# text = Lærernes planer for den kommende 10. klasse bygger dels på elevernes ønsker og forventninger, dels på lærernes forestillinger om hvilke krav, der må stilles til et ungt menneske i 1987.
+Lærernes	NOUN
+planer	NOUN
+for	ADP
+den	DET
+kommende	VERB
+10.	ADJ
+klasse	NOUN
+bygger	VERB
+dels	ADV
+på	ADP
+elevernes	NOUN
+ønsker	NOUN
+og	CCONJ
+forventninger	NOUN
+,	PUNCT
+dels	ADV
+på	ADP
+lærernes	NOUN
+forestillinger	NOUN
+om	ADP
+hvilke	PRON
+krav	NOUN
+,	PUNCT
+der	PRON
+må	AUX
+stilles	VERB
+til	ADP
+et	DET
+ungt	ADJ
+menneske	NOUN
+i	ADP
+1987	NUM
+.	PUNCT
+
+# sent_id = train-v2-29
+# text = Berlingske Tidendes afslag kom først seks uger senere og lignede til forveksling afslaget fra Jyllands-Posten.
+Berlingske	PROPN
+Tidendes	NOUN
+afslag	NOUN
+kom	VERB
+først	ADV
+seks	NUM
+uger	NOUN
+senere	ADV
+og	CCONJ
+lignede	VERB
+til	ADP
+forveksling	NOUN
+afslaget	NOUN
+fra	ADP
+Jyllands-Posten	PROPN
+.	PUNCT
+
+# sent_id = train-v2-30
+# text = Som nationalist nærer han had mod USA, og han ser sig selv som en general i en ny-nazistisk kamp mod amerikanerne.
+Som	ADP
+nationalist	NOUN
+nærer	VERB
+han	PRON
+had	NOUN
+mod	ADP
+USA	PROPN
+,	PUNCT
+og	CCONJ
+han	PRON
+ser	VERB
+sig	PRON
+selv	PRON
+som	ADP
+en	DET
+general	NOUN
+i	ADP
+en	DET
+ny-nazistisk	ADJ
+kamp	NOUN
+mod	ADP
+amerikanerne	NOUN
+.	PUNCT
+
+# sent_id = train-v2-31
+# text = PRINSERNE ER MED
+PRINSERNE	NOUN
+ER	AUX
+MED	ADV
+
+# sent_id = train-v2-32
+# text = Hvis der undertiden skulle stå noget vås i en film-anmeldelse, skyldes det altså ikke tidnød, selv om det naturligvis er mest bekvemt for anmelderne, hvis læserne tror det.
+Hvis	SCONJ
+der	ADV
+undertiden	ADV
+skulle	AUX
+stå	VERB
+noget	DET
+vås	NOUN
+i	ADP
+en	DET
+film-anmeldelse	NOUN
+,	PUNCT
+skyldes	VERB
+det	PRON
+altså	ADV
+ikke	ADV
+tidnød	NOUN
+,	PUNCT
+selv	ADV
+om	ADP
+det	PRON
+naturligvis	ADV
+er	AUX
+mest	ADV
+bekvemt	ADJ
+for	ADP
+anmelderne	NOUN
+,	PUNCT
+hvis	SCONJ
+læserne	NOUN
+tror	VERB
+det	PRON
+.	PUNCT
+
+# sent_id = train-v2-33
+# text = Stakken blev tæt på 2 meter høj og vejede 43,5 kg..
+Stakken	NOUN
+blev	AUX
+tæt	ADV
+på	ADP
+2	NUM
+meter	NOUN
+høj	ADJ
+og	CCONJ
+vejede	VERB
+43,5	NUM
+kg.	NOUN
+.	PUNCT
+
+# sent_id = train-v2-34
+# text = "Jeg tænkte, at det her lærer jeg bare ikke.
+"	PUNCT
+Jeg	PRON
+tænkte	VERB
+,	PUNCT
+at	SCONJ
+det	PRON
+her	ADV
+lærer	VERB
+jeg	PRON
+bare	ADV
+ikke	ADV
+.	PUNCT
+
+# sent_id = train-v2-35
+# text = I stuen ved siden af sad de andre foran fjernsynsapparatet og bekymrede sig næppe om hende.
+I	ADP
+stuen	NOUN
+ved	ADP
+siden	NOUN
+af	ADV
+sad	VERB
+de	PRON
+andre	PRON
+foran	ADP
+fjernsynsapparatet	NOUN
+og	CCONJ
+bekymrede	VERB
+sig	PRON
+næppe	ADV
+om	ADP
+hende	PRON
+.	PUNCT
+
+# sent_id = train-v2-36
+# text = Karen Merete Bennike har skrevet fire populære lærebøger i spansk og fransk for gymnasierne.
+Karen	PROPN
+Merete	PROPN
+Bennike	PROPN
+har	AUX
+skrevet	VERB
+fire	NUM
+populære	ADJ
+lærebøger	NOUN
+i	ADP
+spansk	NOUN
+og	CCONJ
+fransk	NOUN
+for	ADP
+gymnasierne	NOUN
+.	PUNCT
+
+# sent_id = train-v2-37
+# text = Han giver mig alting: Bil, video, opvaskemaskine, stereoanlæg og tøj, men det kan jeg jo ikke tage med i seng.
+Han	PRON
+giver	VERB
+mig	PRON
+alting	DET
+:	PUNCT
+Bil	NOUN
+,	PUNCT
+video	NOUN
+,	PUNCT
+opvaskemaskine	NOUN
+,	PUNCT
+stereoanlæg	NOUN
+og	CCONJ
+tøj	NOUN
+,	PUNCT
+men	CCONJ
+det	PRON
+kan	AUX
+jeg	PRON
+jo	ADV
+ikke	ADV
+tage	VERB
+med	ADV
+i	ADP
+seng	NOUN
+.	PUNCT
+
+# sent_id = train-v2-38
+# text = Samtidig fortsatte forhandlingerne om andre 84 soldater, der var taget til fange i Bosnien, skriver Reuter.
+Samtidig	ADV
+fortsatte	VERB
+forhandlingerne	NOUN
+om	ADP
+andre	DET
+84	NUM
+soldater	NOUN
+,	PUNCT
+der	PRON
+var	AUX
+taget	VERB
+til	ADP
+fange	NOUN
+i	ADP
+Bosnien	PROPN
+,	PUNCT
+skriver	VERB
+Reuter	PROPN
+.	PUNCT
+
+# sent_id = train-v2-39
+# text = Bestilte en ny omgang.
+Bestilte	VERB
+en	DET
+ny	ADJ
+omgang	NOUN
+.	PUNCT
+
+# sent_id = train-v2-40
+# text = Ingen i besætningen har lyst til at tabe, "understreger Jesper Bank.
+Ingen	PRON
+i	ADP
+besætningen	NOUN
+har	VERB
+lyst	NOUN
+til	ADP
+at	PART
+tabe	VERB
+,	PUNCT
+"	PUNCT
+understreger	VERB
+Jesper	PROPN
+Bank	PROPN
+.	PUNCT
+
+# sent_id = train-v2-41
+# text = Hun kiggede spørgende på ham.
+Hun	PRON
+kiggede	VERB
+spørgende	VERB
+på	ADP
+ham	PRON
+.	PUNCT
+
+# sent_id = train-v2-42
+# text = DSBs egne undersøgelser, som politimester J. P. Clausen, Næstved, modtog resultatet af i går, udpeger loko-føreren som den skyldige i togkollisionen på Næstved Station tidligt om morgenen den 25. september.
+DSBs	PROPN
+egne	ADJ
+undersøgelser	NOUN
+,	PUNCT
+som	ADP
+politimester	NOUN
+J.	PROPN
+P.	PROPN
+Clausen	PROPN
+,	PUNCT
+Næstved	PROPN
+,	PUNCT
+modtog	VERB
+resultatet	NOUN
+af	ADP
+i	ADP
+går	NOUN
+,	PUNCT
+udpeger	VERB
+loko-føreren	NOUN
+som	ADP
+den	DET
+skyldige	ADJ
+i	ADP
+togkollisionen	NOUN
+på	ADP
+Næstved	PROPN
+Station	NOUN
+tidligt	ADV
+om	ADP
+morgenen	NOUN
+den	DET
+25.	ADJ
+september	NOUN
+.	PUNCT
+
+# sent_id = train-v2-43
+# text = Forskellen på de to biler er, bortset fra det skrækkelige "hollandske udtræk" bag på Cosworth'en, transmissionen og visse udstyrsdetaljer, at RS 2000 har en fladere momentkurve end rallyraketten, der skal sparkes op i omdrejninger for få alle 227 hestekræfter i arbejde.
+Forskellen	NOUN
+på	ADP
+de	DET
+to	NUM
+biler	NOUN
+er	VERB
+,	PUNCT
+bortset	VERB
+fra	ADP
+det	DET
+skrækkelige	ADJ
+"	PUNCT
+hollandske	ADJ
+udtræk	NOUN
+"	PUNCT
+bag	ADV
+på	ADP
+Cosworth'en	NOUN
+,	PUNCT
+transmissionen	NOUN
+og	CCONJ
+visse	ADJ
+udstyrsdetaljer	NOUN
+,	PUNCT
+at	SCONJ
+RS	PROPN
+2000	NUM
+har	VERB
+en	DET
+fladere	ADJ
+momentkurve	NOUN
+end	ADP
+rallyraketten	NOUN
+,	PUNCT
+der	PRON
+skal	AUX
+sparkes	VERB
+op	ADV
+i	ADP
+omdrejninger	NOUN
+for	ADP
+få	VERB
+alle	ADJ
+227	NUM
+hestekræfter	NOUN
+i	ADP
+arbejde	NOUN
+.	PUNCT
+
+# sent_id = train-v2-44
+# text = Men når hun får opereret knæet, slipper hun for smerten.
+Men	CCONJ
+når	SCONJ
+hun	PRON
+får	VERB
+opereret	VERB
+knæet	NOUN
+,	PUNCT
+slipper	VERB
+hun	PRON
+for	ADP
+smerten	NOUN
+.	PUNCT
+
+# sent_id = train-v2-45
+# text = Tholstrup Cheese er den eneste danske producent af frisk pasta, men der går rygter i mejeribranchen om, at også en større brødproducent vil starte en produktion inden længe.
+Tholstrup	PROPN
+Cheese	PROPN
+er	AUX
+den	DET
+eneste	ADJ
+danske	ADJ
+producent	NOUN
+af	ADP
+frisk	ADJ
+pasta	NOUN
+,	PUNCT
+men	CCONJ
+der	ADV
+går	VERB
+rygter	NOUN
+i	ADP
+mejeribranchen	NOUN
+om	ADP
+,	PUNCT
+at	SCONJ
+også	ADV
+en	DET
+større	ADJ
+brødproducent	NOUN
+vil	AUX
+starte	VERB
+en	DET
+produktion	NOUN
+inden	ADP
+længe	ADV
+.	PUNCT
+
+# sent_id = train-v2-46
+# text = Og der var flere drivhuse, og bag ham var der en bygning han kun havde set den mindste del af.
+Og	CCONJ
+der	ADV
+var	VERB
+flere	ADJ
+drivhuse	NOUN
+,	PUNCT
+og	CCONJ
+bag	ADP
+ham	PRON
+var	VERB
+der	ADV
+en	DET
+bygning	NOUN
+han	PRON
+kun	ADV
+havde	AUX
+set	VERB
+den	DET
+mindste	ADJ
+del	NOUN
+af	ADP
+.	PUNCT
+
+# sent_id = train-v2-47
+# text = Måtten kom tilbage.
+Måtten	NOUN
+kom	VERB
+tilbage	ADV
+.	PUNCT
+
+# sent_id = train-v2-48
+# text = Kun den orangegule norske Fanta, Solus, kan holde øjne og mund åbne.
+Kun	ADV
+den	DET
+orangegule	ADJ
+norske	ADJ
+Fanta	PROPN
+,	PUNCT
+Solus	PROPN
+,	PUNCT
+kan	AUX
+holde	VERB
+øjne	NOUN
+og	CCONJ
+mund	NOUN
+åbne	ADJ
+.	PUNCT
+
+# sent_id = train-v2-49
+# text = For går han hen og fumler med en mine, skal han alligevel først på infirmeriet.
+For	CCONJ
+går	VERB
+han	PRON
+hen	ADV
+og	CCONJ
+fumler	VERB
+med	ADP
+en	DET
+mine	NOUN
+,	PUNCT
+skal	VERB
+han	PRON
+alligevel	ADV
+først	ADV
+på	ADP
+infirmeriet	NOUN
+.	PUNCT
+
+# sent_id = train-v2-50
+# text = Varerummet på en varebil er ikke et bagagerum på samme måde, som et aflåseligt bagagerum på en almindelig personbil, hvor man ikke kan se bagagen udefra.
+Varerummet	NOUN
+på	ADP
+en	DET
+varebil	NOUN
+er	AUX
+ikke	ADV
+et	DET
+bagagerum	NOUN
+på	ADP
+samme	ADJ
+måde	NOUN
+,	PUNCT
+som	ADP
+et	DET
+aflåseligt	ADJ
+bagagerum	NOUN
+på	ADP
+en	DET
+almindelig	ADJ
+personbil	NOUN
+,	PUNCT
+hvor	ADV
+man	PRON
+ikke	ADV
+kan	AUX
+se	VERB
+bagagen	NOUN
+udefra	ADV
+.	PUNCT
+
+# sent_id = train-v2-51
+# text = Efter at have flirtet lidt med malerkunst og journalistik satte hun sig selv på skolebænken for at ende som en meget succesfuld TV-instruktør.
+Efter	ADP
+at	PART
+have	AUX
+flirtet	VERB
+lidt	ADV
+med	ADP
+malerkunst	NOUN
+og	CCONJ
+journalistik	NOUN
+satte	VERB
+hun	PRON
+sig	PRON
+selv	PRON
+på	ADP
+skolebænken	NOUN
+for	ADP
+at	PART
+ende	VERB
+som	ADP
+en	DET
+meget	ADV
+succesfuld	ADJ
+TV-instruktør	NOUN
+.	PUNCT
+
+# sent_id = train-v2-52
+# text = Storsnudethed virker afrusende.
+Storsnudethed	NOUN
+virker	VERB
+afrusende	ADJ
+.	PUNCT
+
+# sent_id = train-v2-53
+# text = Induktion af elektrofelter:
+Induktion	NOUN
+af	ADP
+elektrofelter	NOUN
+:	PUNCT
+
+# sent_id = train-v2-54
+# text = Nye i BTCC
+Nye	ADJ
+i	ADP
+BTCC	PROPN
+
+# sent_id = train-v2-55
+# text = Ikke alene synger hun i Bakkens Hvile.
+Ikke	ADV
+alene	ADV
+synger	VERB
+hun	PRON
+i	ADP
+Bakkens	NOUN
+Hvile	NOUN
+.	PUNCT
+
+# sent_id = train-v2-56
+# text = Kunsthallen markerer jubilæet med en 90 centimeter høj bronze-figur af komponisten som dreng, vurderet til 50.000 kr..
+Kunsthallen	NOUN
+markerer	VERB
+jubilæet	NOUN
+med	ADP
+en	DET
+90	NUM
+centimeter	NOUN
+høj	ADJ
+bronze-figur	NOUN
+af	ADP
+komponisten	NOUN
+som	ADP
+dreng	NOUN
+,	PUNCT
+vurderet	VERB
+til	ADP
+50.000	NUM
+kr.	NOUN
+.	PUNCT
+
+# sent_id = train-v2-57
+# text = Flere sygehuse til Østeuropa
+Flere	ADJ
+sygehuse	NOUN
+til	ADP
+Østeuropa	PROPN
+
+# sent_id = train-v2-58
+# text = Det kræver dog, at hun laver en specifik træning af lårmusklerne med strækøvelser over en pølle, "siger ortopædkirurgen.
+Det	PRON
+kræver	VERB
+dog	ADV
+,	PUNCT
+at	SCONJ
+hun	PRON
+laver	VERB
+en	DET
+specifik	ADJ
+træning	NOUN
+af	ADP
+lårmusklerne	NOUN
+med	ADP
+strækøvelser	NOUN
+over	ADP
+en	DET
+pølle	NOUN
+,	PUNCT
+"	PUNCT
+siger	VERB
+ortopædkirurgen	NOUN
+.	PUNCT
+
+# sent_id = train-v2-59
+# text = Angrebet kom efter, at byen natten igennem var blevet ramt af 400 raketter.
+Angrebet	NOUN
+kom	VERB
+efter	ADP
+,	PUNCT
+at	SCONJ
+byen	NOUN
+natten	NOUN
+igennem	ADV
+var	AUX
+blevet	AUX
+ramt	VERB
+af	ADP
+400	NUM
+raketter	NOUN
+.	PUNCT
+
+# sent_id = train-v2-60
+# text = PROBLEMER
+PROBLEMER	NOUN
+
+# sent_id = train-v2-61
+# text = Samme cifre, de norske piger tabte med i lørdags mod VMs værtsnation.
+Samme	ADJ
+cifre	NOUN
+,	PUNCT
+de	DET
+norske	ADJ
+piger	NOUN
+tabte	VERB
+med	ADP
+i	ADP
+lørdags	NOUN
+mod	ADP
+VMs	PROPN
+værtsnation	NOUN
+.	PUNCT
+
+# sent_id = train-v2-62
+# text = I Shell har man ingen planer om at lade en del af den blyholdige 98 oktan erstatte af blyfri.
+I	ADP
+Shell	PROPN
+har	VERB
+man	PRON
+ingen	DET
+planer	NOUN
+om	ADP
+at	PART
+lade	VERB
+en	DET
+del	NOUN
+af	ADP
+den	DET
+blyholdige	ADJ
+98	NUM
+oktan	NOUN
+erstatte	VERB
+af	ADP
+blyfri	ADJ
+.	PUNCT
+
+# sent_id = train-v2-63
+# text = Ved udgangen af juni beskæftigede de danske industrivirksomheder korrigeret for sæsonudsving godt 270.000 personer.
+Ved	ADP
+udgangen	NOUN
+af	ADP
+juni	NOUN
+beskæftigede	VERB
+de	DET
+danske	ADJ
+industrivirksomheder	NOUN
+korrigeret	VERB
+for	ADP
+sæsonudsving	NOUN
+godt	ADV
+270.000	NUM
+personer	NOUN
+.	PUNCT
+
+# sent_id = train-v2-64
+# text = Mit hus er et lille skovløberhus bag en af de røde låger.
+Mit	DET
+hus	NOUN
+er	AUX
+et	DET
+lille	ADJ
+skovløberhus	NOUN
+bag	ADP
+en	PRON
+af	ADP
+de	DET
+røde	ADJ
+låger	NOUN
+.	PUNCT
+
+# sent_id = train-v2-65
+# text = Trods sine 23 år på bagen er "Spejldans" stadig en fascinerende og på mange måder rystende læseoplevelse.
+Trods	ADP
+sine	DET
+23	NUM
+år	NOUN
+på	ADP
+bagen	NOUN
+er	AUX
+"	PUNCT
+Spejldans	NOUN
+"	PUNCT
+stadig	ADV
+en	DET
+fascinerende	VERB
+og	CCONJ
+på	ADP
+mange	ADJ
+måder	NOUN
+rystende	ADJ
+læseoplevelse	NOUN
+.	PUNCT
+
+# sent_id = train-v2-66
+# text = Århus Stiftstidende svarede, at man ikke var interesseret, idet en medarbejder alligevel snart skulle til området.
+Århus	PROPN
+Stiftstidende	NOUN
+svarede	VERB
+,	PUNCT
+at	SCONJ
+man	PRON
+ikke	ADV
+var	AUX
+interesseret	VERB
+,	PUNCT
+idet	SCONJ
+en	DET
+medarbejder	NOUN
+alligevel	ADV
+snart	ADV
+skulle	VERB
+til	ADP
+området	NOUN
+.	PUNCT
+
+# sent_id = train-v2-67
+# text = De, der udførte bagholdsangrebet, er i øvrigt uden for vor direkte kontrol, "sagde han til den britiske tv-station Sky.
+De	PRON
+,	PUNCT
+der	PRON
+udførte	VERB
+bagholdsangrebet	NOUN
+,	PUNCT
+er	AUX
+i	ADP
+øvrigt	ADV
+uden	ADV
+for	ADP
+vor	DET
+direkte	ADJ
+kontrol	NOUN
+,	PUNCT
+"	PUNCT
+sagde	VERB
+han	PRON
+til	ADP
+den	DET
+britiske	ADJ
+tv-station	NOUN
+Sky	PROPN
+.	PUNCT
+
+# sent_id = train-v2-68
+# text = En anden blomsterhandler, Carsten Ove Dalsø Nielsen fra Carstens Blomster i Bredegade 55, Slagelse, har også modtaget henvendelser fra politiet.
+En	DET
+anden	DET
+blomsterhandler	NOUN
+,	PUNCT
+Carsten	PROPN
+Ove	PROPN
+Dalsø	PROPN
+Nielsen	PROPN
+fra	ADP
+Carstens	PROPN
+Blomster	NOUN
+i	ADP
+Bredegade	PROPN
+55	NUM
+,	PUNCT
+Slagelse	PROPN
+,	PUNCT
+har	AUX
+også	ADV
+modtaget	VERB
+henvendelser	NOUN
+fra	ADP
+politiet	NOUN
+.	PUNCT
+
+# sent_id = train-v2-69
+# text = Erkendelsen faldt dog fra hinanden efter grundige afhøringer hos politiet.
+Erkendelsen	NOUN
+faldt	VERB
+dog	ADV
+fra	ADP
+hinanden	PRON
+efter	ADP
+grundige	ADJ
+afhøringer	NOUN
+hos	ADP
+politiet	NOUN
+.	PUNCT
+
+# sent_id = train-v2-70
+# text = Jeg fik blot besked om, at der overhovedet ikke var nogen problemer.
+Jeg	PRON
+fik	VERB
+blot	ADV
+besked	NOUN
+om	ADP
+,	PUNCT
+at	SCONJ
+der	ADV
+overhovedet	ADV
+ikke	ADV
+var	VERB
+nogen	DET
+problemer	NOUN
+.	PUNCT
+
+# sent_id = train-v2-71
+# text = Men vi er stærkt knyttet til hinanden.
+Men	CCONJ
+vi	PRON
+er	AUX
+stærkt	ADV
+knyttet	VERB
+til	ADP
+hinanden	PRON
+.	PUNCT
+
+# sent_id = train-v2-72
+# text = Blandt fodboldspillerne i den fysisk krævende EM-turnering er der stor professionel medfølelse med den uheldige sportsmand.
+Blandt	ADP
+fodboldspillerne	NOUN
+i	ADP
+den	DET
+fysisk	ADV
+krævende	ADJ
+EM-turnering	NOUN
+er	VERB
+der	ADV
+stor	ADJ
+professionel	ADJ
+medfølelse	NOUN
+med	ADP
+den	DET
+uheldige	ADJ
+sportsmand	NOUN
+.	PUNCT
+
+# sent_id = train-v2-73
+# text = Skolens arbejde med elektronisk post muliggøres af et abonnement på et elektronisk netværk med knudepunkter over hele verden, EARN-nettet (European Academic Research Network).
+Skolens	NOUN
+arbejde	NOUN
+med	ADP
+elektronisk	ADJ
+post	NOUN
+muliggøres	VERB
+af	ADP
+et	DET
+abonnement	NOUN
+på	ADP
+et	DET
+elektronisk	ADJ
+netværk	NOUN
+med	ADP
+knudepunkter	NOUN
+over	ADP
+hele	ADJ
+verden	NOUN
+,	PUNCT
+EARN-nettet	NOUN
+(	PUNCT
+European	PROPN
+Academic	PROPN
+Research	PROPN
+Network	PROPN
+)	PUNCT
+.	PUNCT
+
+# sent_id = train-v2-74
+# text = Lars svarede, at det var svært at sige.
+Lars	PROPN
+svarede	VERB
+,	PUNCT
+at	SCONJ
+det	PRON
+var	AUX
+svært	ADJ
+at	PART
+sige	VERB
+.	PUNCT
+
+# sent_id = train-v2-75
+# text = Selv særligt begavede børn bliver nødt til at leve i det samfund vi har, de kan jo ikke melde sig ud.
+Selv	ADV
+særligt	ADV
+begavede	ADJ
+børn	NOUN
+bliver	AUX
+nødt	ADJ
+til	ADP
+at	PART
+leve	VERB
+i	ADP
+det	DET
+samfund	NOUN
+vi	PRON
+har	AUX
+,	PUNCT
+de	PRON
+kan	AUX
+jo	ADV
+ikke	ADV
+melde	VERB
+sig	PRON
+ud	ADV
+.	PUNCT
+
+# sent_id = train-v2-76
+# text = Det et-motorede Cessna 172 fly med plads til fire personer havde da retning mod en række fire meter høje buske.
+Det	DET
+et-motorede	ADJ
+Cessna	PROPN
+172	NUM
+fly	NOUN
+med	ADP
+plads	NOUN
+til	ADP
+fire	NUM
+personer	NOUN
+havde	VERB
+da	ADV
+retning	NOUN
+mod	ADP
+en	DET
+række	NOUN
+fire	NUM
+meter	NOUN
+høje	ADJ
+buske	NOUN
+.	PUNCT
+
+# sent_id = train-v2-77
+# text = Så enkelt kan Unibanks problem formuleres, og i et forsøg på at få skabt tillid blev Unibanks direktør, 52-årige Steen Rasborg i går fyret med en afskedsgave på ca. ni millioner kroner.
+Så	ADV
+enkelt	ADJ
+kan	AUX
+Unibanks	PROPN
+problem	NOUN
+formuleres	VERB
+,	PUNCT
+og	CCONJ
+i	ADP
+et	DET
+forsøg	NOUN
+på	ADP
+at	PART
+få	VERB
+skabt	VERB
+tillid	NOUN
+blev	AUX
+Unibanks	PROPN
+direktør	NOUN
+,	PUNCT
+52-årige	ADJ
+Steen	PROPN
+Rasborg	PROPN
+i	ADP
+går	NOUN
+fyret	VERB
+med	ADP
+en	DET
+afskedsgave	NOUN
+på	ADP
+ca.	ADV
+ni	NUM
+millioner	NOUN
+kroner	NOUN
+.	PUNCT
+
+# sent_id = train-v2-78
+# text = At højden over for- og bagsæde er mindsket med hhv. 10 og 8 mm, og at bredden i skulderhøjde for/bag tabte hhv. 4 og 10 mm..
+At	SCONJ
+højden	NOUN
+over	ADP
+for-	NOUN
+og	CCONJ
+bagsæde	NOUN
+er	VERB
+mindsket	VERB
+med	ADP
+hhv.	ADV
+10	NUM
+og	CCONJ
+8	NUM
+mm	NOUN
+,	PUNCT
+og	CCONJ
+at	SCONJ
+bredden	NOUN
+i	ADP
+skulderhøjde	NOUN
+for/bag	X
+tabte	VERB
+hhv.	ADV
+4	NUM
+og	CCONJ
+10	NUM
+mm.	NOUN
+.	PUNCT
+
+# sent_id = train-v2-79
+# text = Så skal der rafles om husholdningspengene.
+Så	ADV
+skal	AUX
+der	ADV
+rafles	VERB
+om	ADP
+husholdningspengene	NOUN
+.	PUNCT
+
+# sent_id = train-v2-80
+# text = Derfor tæller modelprogrammet foreløbig kun Legacy.
+Derfor	ADV
+tæller	VERB
+modelprogrammet	NOUN
+foreløbig	ADV
+kun	ADV
+Legacy	PROPN
+.	PUNCT
+
+# sent_id = train-v2-81
+# text = Edeling og Robert udviklede ikke mindst i 1970'erne en række nye trykteknikker, hvorved man på en helt ny måde kunne fastholde metallets stoflighed i det grafiske tryk.
+Edeling	PROPN
+og	CCONJ
+Robert	PROPN
+udviklede	VERB
+ikke	ADV
+mindst	ADV
+i	ADP
+1970'erne	NOUN
+en	DET
+række	NOUN
+nye	ADJ
+trykteknikker	NOUN
+,	PUNCT
+hvorved	ADV
+man	PRON
+på	ADP
+en	DET
+helt	ADV
+ny	ADJ
+måde	NOUN
+kunne	AUX
+fastholde	VERB
+metallets	NOUN
+stoflighed	NOUN
+i	ADP
+det	DET
+grafiske	ADJ
+tryk	NOUN
+.	PUNCT
+
+# sent_id = train-v2-82
+# text = Dialog med undertekst, og en klart defineret fortællersynsvinkel, de to virkemidler lå i impressionismens prosa.
+Dialog	NOUN
+med	ADP
+undertekst	NOUN
+,	PUNCT
+og	CCONJ
+en	DET
+klart	ADV
+defineret	VERB
+fortællersynsvinkel	NOUN
+,	PUNCT
+de	DET
+to	NUM
+virkemidler	NOUN
+lå	VERB
+i	ADP
+impressionismens	NOUN
+prosa	NOUN
+.	PUNCT
+
+# sent_id = train-v2-83
+# text = Desværre er det jo kommunerne, der vurderer de ældres behov - og de anlægger en økonomisk synsvinkel.
+Desværre	ADV
+er	AUX
+det	PRON
+jo	ADV
+kommunerne	NOUN
+,	PUNCT
+der	PRON
+vurderer	VERB
+de	DET
+ældres	ADJ
+behov	NOUN
+-	PUNCT
+og	CCONJ
+de	PRON
+anlægger	VERB
+en	DET
+økonomisk	ADJ
+synsvinkel	NOUN
+.	PUNCT
+
+# sent_id = train-v2-84
+# text = Og de er begge fuld af gå-på-mod og har store ambitioner.
+Og	CCONJ
+de	PRON
+er	AUX
+begge	PRON
+fuld	ADJ
+af	ADP
+gå-på-mod	NOUN
+og	CCONJ
+har	VERB
+store	ADJ
+ambitioner	NOUN
+.	PUNCT
+
+# sent_id = train-v2-85
+# text = hel
+hel	X
+
+# sent_id = train-v2-86
+# text = Men privat er Jason Priestley absolut ingen duksedreng.
+Men	CCONJ
+privat	ADV
+er	AUX
+Jason	PROPN
+Priestley	PROPN
+absolut	ADV
+ingen	DET
+duksedreng	NOUN
+.	PUNCT
+
+# sent_id = train-v2-87
+# text = Elektronisk netværk - og netværk af skoler
+Elektronisk	ADJ
+netværk	NOUN
+-	PUNCT
+og	CCONJ
+netværk	NOUN
+af	ADP
+skoler	NOUN
+
+# sent_id = train-v2-88
+# text = Usikkerheden om programmernes tidshorisont og uhensigtsmæssige finansieringsformer vanskeliggør en konsolidering af forskningen på langt sigt, fastslår rådene i deres rapport.
+Usikkerheden	NOUN
+om	ADP
+programmernes	NOUN
+tidshorisont	NOUN
+og	CCONJ
+uhensigtsmæssige	ADJ
+finansieringsformer	NOUN
+vanskeliggør	VERB
+en	DET
+konsolidering	NOUN
+af	ADP
+forskningen	NOUN
+på	ADP
+langt	ADJ
+sigt	NOUN
+,	PUNCT
+fastslår	VERB
+rådene	NOUN
+i	ADP
+deres	DET
+rapport	NOUN
+.	PUNCT
+
+# sent_id = train-v2-89
+# text = Venerne kan også have svært ved at føre blodet tilbage til hjertet, og i så fald hobes blodet op, og benene hæver.
+Venerne	NOUN
+kan	AUX
+også	ADV
+have	VERB
+svært	ADV
+ved	ADP
+at	PART
+føre	VERB
+blodet	NOUN
+tilbage	ADV
+til	ADP
+hjertet	NOUN
+,	PUNCT
+og	CCONJ
+i	ADP
+så	ADJ
+fald	NOUN
+hobes	VERB
+blodet	NOUN
+op	ADV
+,	PUNCT
+og	CCONJ
+benene	NOUN
+hæver	VERB
+.	PUNCT
+
+# sent_id = train-v2-90
+# text = KURS MOD BUSKE
+KURS	NOUN
+MOD	ADP
+BUSKE	NOUN
+
+# sent_id = train-v2-91
+# text = Muligheder i mange fag
+Muligheder	NOUN
+i	ADP
+mange	ADJ
+fag	NOUN
+
+# sent_id = train-v2-92
+# text = Han mener, at det er på tide at bede USA om at standse krigen militært.
+Han	PRON
+mener	VERB
+,	PUNCT
+at	SCONJ
+det	PRON
+er	AUX
+på	ADP
+tide	NOUN
+at	PART
+bede	VERB
+USA	PROPN
+om	ADP
+at	PART
+standse	VERB
+krigen	NOUN
+militært	ADV
+.	PUNCT
+
+# sent_id = train-v2-93
+# text = - Og det er mig, der hedder Anni, sagde Anni og hoppede og dansede på fødderne.
+-	PUNCT
+Og	CCONJ
+det	PRON
+er	AUX
+mig	PRON
+,	PUNCT
+der	PRON
+hedder	VERB
+Anni	PROPN
+,	PUNCT
+sagde	VERB
+Anni	PROPN
+og	CCONJ
+hoppede	VERB
+og	CCONJ
+dansede	VERB
+på	ADP
+fødderne	NOUN
+.	PUNCT
+
+# sent_id = train-v2-94
+# text = Europæerne skulle være intelligente nok.
+Europæerne	NOUN
+skulle	AUX
+være	AUX
+intelligente	ADJ
+nok	ADV
+.	PUNCT
+
+# sent_id = train-v2-95
+# text = Svendsen kører derud i ambulancen.
+Svendsen	PROPN
+kører	VERB
+derud	ADV
+i	ADP
+ambulancen	NOUN
+.	PUNCT
+
+# sent_id = train-v2-96
+# text = Gudskelov for det.
+Gudskelov	ADV
+for	ADP
+det	PRON
+.	PUNCT
+
+# sent_id = train-v2-97
+# text = De svage og syge ligger i deres telte.
+De	DET
+svage	ADJ
+og	CCONJ
+syge	ADJ
+ligger	VERB
+i	ADP
+deres	DET
+telte	NOUN
+.	PUNCT
+
+# sent_id = train-v2-98
+# text = "Jyden er som bekendt stærk og sej.
+"	PUNCT
+Jyden	NOUN
+er	AUX
+som	ADP
+bekendt	ADJ
+stærk	ADJ
+og	CCONJ
+sej	ADJ
+.	PUNCT
+
+# sent_id = train-v2-99
+# text = Tværtimod er det den tyske stabilitets- og pengepolitik, der skal overtages af resten af EF, "sagde Waigel fornylig under en diskussion om den fremtidige økonomiske union i EF.
+Tværtimod	ADV
+er	AUX
+det	PRON
+den	DET
+tyske	ADJ
+stabilitets-	NOUN
+og	CCONJ
+pengepolitik	NOUN
+,	PUNCT
+der	PRON
+skal	AUX
+overtages	VERB
+af	ADP
+resten	NOUN
+af	ADP
+EF	PROPN
+,	PUNCT
+"	PUNCT
+sagde	VERB
+Waigel	PROPN
+fornylig	ADV
+under	ADP
+en	DET
+diskussion	NOUN
+om	ADP
+den	DET
+fremtidige	ADJ
+økonomiske	ADJ
+union	NOUN
+i	ADP
+EF	PROPN
+.	PUNCT
+
+# sent_id = train-v2-100
+# text = En volleyballspiller springer i gennemsnit 80 centimeter i vejret.
+En	DET
+volleyballspiller	NOUN
+springer	VERB
+i	ADP
+gennemsnit	NOUN
+80	NUM
+centimeter	NOUN
+i	ADP
+vejret	NOUN
+.	PUNCT
+

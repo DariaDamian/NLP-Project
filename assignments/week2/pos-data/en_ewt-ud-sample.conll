@@ -1,0 +1,2005 @@
+# newdoc id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0001
+# newpar id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-p0001
+# text = Al-Zaman : American forces killed Shaikh Abdullah al-Ani, the preacher at the mosque in the town of Qaim, near the Syrian border.
+Al	PROPN
+-	PUNCT
+Zaman	PROPN
+:	PUNCT
+American	ADJ
+forces	NOUN
+killed	VERB
+Shaikh	PROPN
+Abdullah	PROPN
+al	PROPN
+-	PUNCT
+Ani	PROPN
+,	PUNCT
+the	DET
+preacher	NOUN
+at	ADP
+the	DET
+mosque	NOUN
+in	ADP
+the	DET
+town	NOUN
+of	ADP
+Qaim	PROPN
+,	PUNCT
+near	ADP
+the	DET
+Syrian	ADJ
+border	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0002
+# text = [This killing of a respected cleric will be causing us trouble for years to come.]
+[	PUNCT
+This	DET
+killing	NOUN
+of	ADP
+a	DET
+respected	ADJ
+cleric	NOUN
+will	AUX
+be	AUX
+causing	VERB
+us	PRON
+trouble	NOUN
+for	ADP
+years	NOUN
+to	PART
+come	VERB
+.	PUNCT
+]	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0003
+# text = DPA: Iraqi authorities announced that they had busted up 3 terrorist cells operating in Baghdad.
+DPA	PROPN
+:	PUNCT
+Iraqi	ADJ
+authorities	NOUN
+announced	VERB
+that	SCONJ
+they	PRON
+had	AUX
+busted	VERB
+up	ADP
+3	NUM
+terrorist	ADJ
+cells	NOUN
+operating	VERB
+in	ADP
+Baghdad	PROPN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0004
+# text = Two of them were being run by 2 officials of the Ministry of the Interior!
+Two	NUM
+of	ADP
+them	PRON
+were	AUX
+being	AUX
+run	VERB
+by	ADP
+2	NUM
+officials	NOUN
+of	ADP
+the	DET
+Ministry	PROPN
+of	ADP
+the	DET
+Interior	PROPN
+!	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0005
+# text = The MoI in Iraq is equivalent to the US FBI, so this would be like having J. Edgar Hoover unwittingly employ at a high level members of the Weathermen bombers back in the 1960s.
+The	DET
+MoI	PROPN
+in	ADP
+Iraq	PROPN
+is	AUX
+equivalent	ADJ
+to	ADP
+the	DET
+US	PROPN
+FBI	PROPN
+,	PUNCT
+so	ADV
+this	PRON
+would	AUX
+be	VERB
+like	SCONJ
+having	VERB
+J.	PROPN
+Edgar	PROPN
+Hoover	PROPN
+unwittingly	ADV
+employ	VERB
+at	ADP
+a	DET
+high	ADJ
+level	NOUN
+members	NOUN
+of	ADP
+the	DET
+Weathermen	PROPN
+bombers	NOUN
+back	ADV
+in	ADP
+the	DET
+1960s	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0006
+# text = The third was being run by the head of an investment firm.
+The	DET
+third	ADJ
+was	AUX
+being	AUX
+run	VERB
+by	ADP
+the	DET
+head	NOUN
+of	ADP
+an	DET
+investment	NOUN
+firm	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0007
+# text = You wonder if he was manipulating the market with his bombing targets.
+You	PRON
+wonder	VERB
+if	SCONJ
+he	PRON
+was	AUX
+manipulating	VERB
+the	DET
+market	NOUN
+with	ADP
+his	PRON
+bombing	NOUN
+targets	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0008
+# text = The cells were operating in the Ghazaliyah and al-Jihad districts of the capital.
+The	DET
+cells	NOUN
+were	AUX
+operating	VERB
+in	ADP
+the	DET
+Ghazaliyah	PROPN
+and	CCONJ
+al	PROPN
+-	PUNCT
+Jihad	PROPN
+districts	NOUN
+of	ADP
+the	DET
+capital	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0009
+# text = Although the announcement was probably made to show progress in identifying and breaking up terror cells, I don't find the news that the Baathists continue to penetrate the Iraqi government very hopeful.
+Although	SCONJ
+the	DET
+announcement	NOUN
+was	AUX
+probably	ADV
+made	VERB
+to	PART
+show	VERB
+progress	NOUN
+in	SCONJ
+identifying	VERB
+and	CCONJ
+breaking	VERB
+up	ADP
+terror	NOUN
+cells	NOUN
+,	PUNCT
+I	PRON
+don't	AUX
+find	VERB
+the	DET
+news	NOUN
+that	SCONJ
+the	DET
+Baathists	PROPN
+continue	VERB
+to	PART
+penetrate	VERB
+the	DET
+Iraqi	ADJ
+government	NOUN
+very	ADV
+hopeful	ADJ
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0010
+# text = It reminds me too much of the ARVN officers who were secretly working for the other side in Vietnam.
+It	PRON
+reminds	VERB
+me	PRON
+too	ADV
+much	ADV
+of	ADP
+the	DET
+ARVN	PROPN
+officers	NOUN
+who	PRON
+were	AUX
+secretly	ADV
+working	VERB
+for	ADP
+the	DET
+other	ADJ
+side	NOUN
+in	ADP
+Vietnam	PROPN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0011
+# text = Al-Zaman : Guerrillas killed a member of the Kurdistan Democratic Party after kidnapping him in Mosul.
+Al	PROPN
+-	PUNCT
+Zaman	PROPN
+:	PUNCT
+Guerrillas	NOUN
+killed	VERB
+a	DET
+member	NOUN
+of	ADP
+the	DET
+Kurdistan	PROPN
+Democratic	ADJ
+Party	PROPN
+after	SCONJ
+kidnapping	VERB
+him	PRON
+in	ADP
+Mosul	PROPN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0012
+# text = The police commander of Ninevah Province announced that bombings had declined 80 percent in Mosul, whereas there had been a big jump in the number of kidnappings.
+The	DET
+police	NOUN
+commander	NOUN
+of	ADP
+Ninevah	PROPN
+Province	PROPN
+announced	VERB
+that	SCONJ
+bombings	NOUN
+had	AUX
+declined	VERB
+80	NUM
+percent	NOUN
+in	ADP
+Mosul	PROPN
+,	PUNCT
+whereas	SCONJ
+there	PRON
+had	AUX
+been	VERB
+a	DET
+big	ADJ
+jump	NOUN
+in	ADP
+the	DET
+number	NOUN
+of	ADP
+kidnappings	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0013
+# text = On Wednesday guerrillas had kidnapped a cosmetic surgeon and his wife while they were on their way home.
+On	ADP
+Wednesday	PROPN
+guerrillas	NOUN
+had	AUX
+kidnapped	VERB
+a	DET
+cosmetic	ADJ
+surgeon	NOUN
+and	CCONJ
+his	PRON
+wife	NOUN
+while	SCONJ
+they	PRON
+were	AUX
+on	ADP
+their	PRON
+way	NOUN
+home	ADV
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0014
+# text = In Suwayrah, Kut Province, two car bombs were discovered before they could be detonated.
+In	ADP
+Suwayrah	PROPN
+,	PUNCT
+Kut	PROPN
+Province	PROPN
+,	PUNCT
+two	NUM
+car	NOUN
+bombs	NOUN
+were	AUX
+discovered	VERB
+before	SCONJ
+they	PRON
+could	AUX
+be	AUX
+detonated	VERB
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0015
+# text = (Kut is in southeastern Iraq and has an overwhelmingly Shiite population, who are on the lookout for Baathist saboteurs and willingly turn them in.
+(	PUNCT
+Kut	PROPN
+is	AUX
+in	ADP
+southeastern	ADJ
+Iraq	PROPN
+and	CCONJ
+has	VERB
+an	DET
+overwhelmingly	ADV
+Shiite	ADJ
+population	NOUN
+,	PUNCT
+who	PRON
+are	AUX
+on	ADP
+the	DET
+lookout	NOUN
+for	ADP
+Baathist	PROPN
+saboteurs	NOUN
+and	CCONJ
+willingly	ADV
+turn	VERB
+them	PRON
+in	ADP
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0016
+# text = This willingness is the main difference in the number of bombings in the south as opposed to the center-north of the country.)
+This	DET
+willingness	NOUN
+is	AUX
+the	DET
+main	ADJ
+difference	NOUN
+in	ADP
+the	DET
+number	NOUN
+of	ADP
+bombings	NOUN
+in	ADP
+the	DET
+south	NOUN
+as	SCONJ
+opposed	VERB
+to	ADP
+the	DET
+center	NOUN
+-	PUNCT
+north	NOUN
+of	ADP
+the	DET
+country	NOUN
+.	PUNCT
+)	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0017
+# text = In Baghdad Kadhim Talal Husain, assistant dean at the School of Education at Mustansiriyah University, was assassinated with his driver in the Salikh district.
+In	ADP
+Baghdad	PROPN
+Kadhim	PROPN
+Talal	PROPN
+Husain	PROPN
+,	PUNCT
+assistant	ADJ
+dean	NOUN
+at	ADP
+the	DET
+School	PROPN
+of	ADP
+Education	PROPN
+at	ADP
+Mustansiriyah	PROPN
+University	PROPN
+,	PUNCT
+was	AUX
+assassinated	VERB
+with	ADP
+his	PRON
+driver	NOUN
+in	ADP
+the	DET
+Salikh	PROPN
+district	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0018
+# text = Guerrillas killed an engineer, Asi Ali, from Tikrit.
+Guerrillas	NOUN
+killed	VERB
+an	DET
+engineer	NOUN
+,	PUNCT
+Asi	PROPN
+Ali	PROPN
+,	PUNCT
+from	ADP
+Tikrit	PROPN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0019
+# text = They also killed Shaikh Hamid 'Akkab, a clan elder of a branch of the Dulaim tribe in Tikrit.
+They	PRON
+also	ADV
+killed	VERB
+Shaikh	PROPN
+Hamid	PROPN
+'Akkab	PROPN
+,	PUNCT
+a	DET
+clan	NOUN
+elder	NOUN
+of	ADP
+a	DET
+branch	NOUN
+of	ADP
+the	DET
+Dulaim	PROPN
+tribe	NOUN
+in	ADP
+Tikrit	PROPN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0020
+# text = His mother was also killed in the attack.
+His	PRON
+mother	NOUN
+was	AUX
+also	ADV
+killed	VERB
+in	ADP
+the	DET
+attack	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0021
+# text = Two other Dulaim leaders have been killed in the past week and a half.
+Two	NUM
+other	ADJ
+Dulaim	PROPN
+leaders	NOUN
+have	AUX
+been	AUX
+killed	VERB
+in	ADP
+the	DET
+past	ADJ
+week	NOUN
+and	CCONJ
+a	DET
+half	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0022
+# newpar id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-p0002
+# text = Guerrillas near Hawijah launched an attack that left 6 dead, including 4 Iraqi soldiers.
+Guerrillas	NOUN
+near	ADP
+Hawijah	PROPN
+launched	VERB
+an	DET
+attack	NOUN
+that	PRON
+left	VERB
+6	NUM
+dead	ADJ
+,	PUNCT
+including	VERB
+4	NUM
+Iraqi	ADJ
+soldiers	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0023
+# text = One of them was from the Jubur tribe and was deputy commander of the Hawijah garrison.
+One	NUM
+of	ADP
+them	PRON
+was	AUX
+from	ADP
+the	DET
+Jubur	PROPN
+tribe	NOUN
+and	CCONJ
+was	AUX
+deputy	NOUN
+commander	NOUN
+of	ADP
+the	DET
+Hawijah	PROPN
+garrison	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0024
+# text = Two hundred members of the Batawi clan of the Dulaim demonstrated in Baghdad on Friday, protesting the killing of their clan elder, Shaikh Kadhim Sarhid and 4 of his sons, by gunmen wearing Iraqi army uniforms.
+Two	NUM
+hundred	NUM
+members	NOUN
+of	ADP
+the	DET
+Batawi	PROPN
+clan	NOUN
+of	ADP
+the	DET
+Dulaim	PROPN
+demonstrated	VERB
+in	ADP
+Baghdad	PROPN
+on	ADP
+Friday	PROPN
+,	PUNCT
+protesting	VERB
+the	DET
+killing	NOUN
+of	ADP
+their	PRON
+clan	NOUN
+elder	NOUN
+,	PUNCT
+Shaikh	PROPN
+Kadhim	PROPN
+Sarhid	PROPN
+and	CCONJ
+4	NUM
+of	ADP
+his	PRON
+sons	NOUN
+,	PUNCT
+by	ADP
+gunmen	NOUN
+wearing	VERB
+Iraqi	ADJ
+army	NOUN
+uniforms	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0025
+# text = (This is a largely Sunni Arab clan, and some Sunni observers have accused Shiite elements in the government of being behind the assassination; it is more likely the work of Sunni Arab guerrillas punishing the Batawi leaders for cooperating with the Dec. 15 elections.)
+(	PUNCT
+This	PRON
+is	AUX
+a	DET
+largely	ADV
+Sunni	ADJ
+Arab	ADJ
+clan	NOUN
+,	PUNCT
+and	CCONJ
+some	DET
+Sunni	ADJ
+observers	NOUN
+have	AUX
+accused	VERB
+Shiite	ADJ
+elements	NOUN
+in	ADP
+the	DET
+government	NOUN
+of	SCONJ
+being	AUX
+behind	ADP
+the	DET
+assassination	NOUN
+;	PUNCT
+it	PRON
+is	AUX
+more	ADV
+likely	ADV
+the	DET
+work	NOUN
+of	ADP
+Sunni	ADJ
+Arab	ADJ
+guerrillas	NOUN
+punishing	VERB
+the	DET
+Batawi	PROPN
+leaders	NOUN
+for	SCONJ
+cooperating	VERB
+with	ADP
+the	DET
+Dec.	PROPN
+15	NUM
+elections	NOUN
+.	PUNCT
+)	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0026
+# text = Al-Zaman : The Iraqi High Electoral Commission on Friday denied a request of the Debaathification Commission to exclude 51 individuals from running on party lists in the Dec. 15 elections on grounds of having been sufficiently involved in Baath activities to warrant their being excluded from civil office.
+Al	PROPN
+-	PUNCT
+Zaman	PROPN
+:	PUNCT
+The	DET
+Iraqi	ADJ
+High	ADJ
+Electoral	ADJ
+Commission	PROPN
+on	ADP
+Friday	PROPN
+denied	VERB
+a	DET
+request	NOUN
+of	ADP
+the	DET
+Debaathification	PROPN
+Commission	PROPN
+to	PART
+exclude	VERB
+51	NUM
+individuals	NOUN
+from	SCONJ
+running	VERB
+on	ADP
+party	NOUN
+lists	NOUN
+in	ADP
+the	DET
+Dec.	PROPN
+15	NUM
+elections	NOUN
+on	ADP
+grounds	NOUN
+of	SCONJ
+having	AUX
+been	AUX
+sufficiently	ADV
+involved	ADJ
+in	ADP
+Baath	PROPN
+activities	NOUN
+to	PART
+warrant	VERB
+their	PRON
+being	AUX
+excluded	VERB
+from	ADP
+civil	ADJ
+office	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0027
+# text = The Commission said it had no legal grounds for such an exclusion.
+The	DET
+Commission	NOUN
+said	VERB
+it	PRON
+had	VERB
+no	DET
+legal	ADJ
+grounds	NOUN
+for	ADP
+such	DET
+an	DET
+exclusion	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0028
+# text = This item is a small one and easily missed.
+This	DET
+item	NOUN
+is	AUX
+a	DET
+small	ADJ
+one	NOUN
+and	CCONJ
+easily	ADV
+missed	VERB
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0029
+# text = But in my view it is highly significant.
+But	CCONJ
+in	ADP
+my	PRON
+view	NOUN
+it	PRON
+is	AUX
+highly	ADV
+significant	ADJ
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0030
+# text = The Debaathification Commission had been pushed by Ahmad Chalabi and his Iraqi National Congress very hard, and had pushed many Sunni Arabs into the arms of the guerrillas.
+The	DET
+Debaathification	PROPN
+Commission	PROPN
+had	AUX
+been	AUX
+pushed	VERB
+by	ADP
+Ahmad	PROPN
+Chalabi	PROPN
+and	CCONJ
+his	PRON
+Iraqi	ADJ
+National	ADJ
+Congress	PROPN
+very	ADV
+hard	ADV
+,	PUNCT
+and	CCONJ
+had	AUX
+pushed	VERB
+many	ADJ
+Sunni	ADJ
+Arabs	PROPN
+into	ADP
+the	DET
+arms	NOUN
+of	ADP
+the	DET
+guerrillas	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0031
+# text = Chalabi has been increasingly marginalized within Iraq, however, despite his ties of clientelage with Washington and Tehran.
+Chalabi	PROPN
+has	AUX
+been	AUX
+increasingly	ADV
+marginalized	VERB
+within	ADP
+Iraq	PROPN
+,	PUNCT
+however	ADV
+,	PUNCT
+despite	ADP
+his	PRON
+ties	NOUN
+of	ADP
+clientelage	NOUN
+with	ADP
+Washington	PROPN
+and	CCONJ
+Tehran	PROPN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0032
+# text = He is no longer in the dominant Shiite list, the United Iraqi Alliance, and won't have many seats in the new parliament.
+He	PRON
+is	AUX
+no	ADV
+longer	ADV
+in	ADP
+the	DET
+dominant	ADJ
+Shiite	ADJ
+list	NOUN
+,	PUNCT
+the	DET
+United	ADJ
+Iraqi	ADJ
+Alliance	PROPN
+,	PUNCT
+and	CCONJ
+won't	AUX
+have	VERB
+many	ADJ
+seats	NOUN
+in	ADP
+the	DET
+new	ADJ
+parliament	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0033
+# text = Some 2,000 junior officers of the old Baath army have been recalled to duty in recent months, something Chalabi would have blocked if he could have.
+Some	DET
+2,000	NUM
+junior	ADJ
+officers	NOUN
+of	ADP
+the	DET
+old	ADJ
+Baath	PROPN
+army	NOUN
+have	AUX
+been	AUX
+recalled	VERB
+to	ADP
+duty	NOUN
+in	ADP
+recent	ADJ
+months	NOUN
+,	PUNCT
+something	PRON
+Chalabi	PROPN
+would	AUX
+have	AUX
+blocked	VERB
+if	SCONJ
+he	PRON
+could	AUX
+have	VERB
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0034
+# text = Now the Electoral Commission is refusing to punish people for mere past Baath Party membership.
+Now	ADV
+the	DET
+Electoral	ADJ
+Commission	PROPN
+is	AUX
+refusing	VERB
+to	PART
+punish	VERB
+people	NOUN
+for	ADP
+mere	ADJ
+past	ADJ
+Baath	PROPN
+Party	PROPN
+membership	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0035
+# text = The situation in Iraq is only going to get better this way.
+The	DET
+situation	NOUN
+in	ADP
+Iraq	PROPN
+is	AUX
+only	ADV
+going	VERB
+to	PART
+get	VERB
+better	ADJ
+this	DET
+way	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0036
+# text = If someone committed a crime against humanity, prosecute the person.
+If	SCONJ
+someone	PRON
+committed	VERB
+a	DET
+crime	NOUN
+against	ADP
+humanity	NOUN
+,	PUNCT
+prosecute	VERB
+the	DET
+person	NOUN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0037
+# text = If he or she did not, then they should have all the same rights as other Iraqis.
+If	SCONJ
+he	PRON
+or	CCONJ
+she	PRON
+did	VERB
+not	PART
+,	PUNCT
+then	ADV
+they	PRON
+should	AUX
+have	VERB
+all	DET
+the	DET
+same	ADJ
+rights	NOUN
+as	ADP
+other	ADJ
+Iraqis	PROPN
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0038
+# text = Al-Sharq al-Awsat reports that a key eyewitness in the trial of Saddam Hussein for a 1982 massacre at Dujail has died.
+Al	PROPN
+-	PUNCT
+Sharq	PROPN
+al	PROPN
+-	PUNCT
+Awsat	PROPN
+reports	VERB
+that	SCONJ
+a	DET
+key	ADJ
+eyewitness	NOUN
+in	ADP
+the	DET
+trial	NOUN
+of	ADP
+Saddam	PROPN
+Hussein	PROPN
+for	ADP
+a	DET
+1982	NUM
+massacre	NOUN
+at	ADP
+Dujail	PROPN
+has	AUX
+died	VERB
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0039
+# text = A team from the court managed to take his deposition before he died.
+A	DET
+team	NOUN
+from	ADP
+the	DET
+court	NOUN
+managed	VERB
+to	PART
+take	VERB
+his	PRON
+deposition	NOUN
+before	SCONJ
+he	PRON
+died	VERB
+.	PUNCT
+
+# sent_id = weblog-juancole.com_juancole_20051126063000_ENG_20051126_063000-0040
+# text = The trial begins again Nov.28.
+The	DET
+trial	NOUN
+begins	VERB
+again	ADV
+Nov.	PROPN
+28	NUM
+.	PUNCT
+
+# newdoc id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0001
+# newpar id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-p0001
+# text = In Baghdad the fighting still continues in several areas, mostly in Sadr city and Adhamiya.
+In	ADP
+Baghdad	PROPN
+the	DET
+fighting	NOUN
+still	ADV
+continues	VERB
+in	ADP
+several	ADJ
+areas	NOUN
+,	PUNCT
+mostly	ADV
+in	ADP
+Sadr	PROPN
+city	NOUN
+and	CCONJ
+Adhamiya	PROPN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0002
+# text = Baghdadis don't venture much out of their neighbourhoods any more, you never know where you might get stuck.
+Baghdadis	PROPN
+don't	AUX
+venture	VERB
+much	ADV
+out	ADP
+of	ADP
+their	PRON
+neighbourhoods	NOUN
+any	ADV
+more	ADV
+,	PUNCT
+you	PRON
+never	ADV
+know	VERB
+where	SCONJ
+you	PRON
+might	AUX
+get	VERB
+stuck	ADJ
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0003
+# text = There has been talk that the night curfew might be implemented again.
+There	PRON
+has	AUX
+been	VERB
+talk	NOUN
+that	SCONJ
+the	DET
+night	NOUN
+curfew	NOUN
+might	AUX
+be	AUX
+implemented	VERB
+again	ADV
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0004
+# text = My neighbourhood has been surrounded by American troops for three days now, helicopters have been circling over our heads non-stop.
+My	PRON
+neighbourhood	NOUN
+has	AUX
+been	AUX
+surrounded	VERB
+by	ADP
+American	ADJ
+troops	NOUN
+for	ADP
+three	NUM
+days	NOUN
+now	ADV
+,	PUNCT
+helicopters	NOUN
+have	AUX
+been	AUX
+circling	VERB
+over	ADP
+our	PRON
+heads	NOUN
+non-stop	ADV
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0005
+# text = Fedayeen are now visible on the street and they have become bolder than ever.
+Fedayeen	NOUN
+are	AUX
+now	ADV
+visible	ADJ
+on	ADP
+the	DET
+street	NOUN
+and	CCONJ
+they	PRON
+have	AUX
+become	VERB
+bolder	ADJ
+than	ADP
+ever	ADV
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0006
+# text = Yesterday there were tens of them putting road blocks on our street and setting up mortars, they only come out in the open when Americans leave the area, then they start firing mortars indiscriminately and shooting their AK-47's in the air.
+Yesterday	NOUN
+there	PRON
+were	VERB
+tens	NOUN
+of	ADP
+them	PRON
+putting	VERB
+road	NOUN
+blocks	NOUN
+on	ADP
+our	PRON
+street	NOUN
+and	CCONJ
+setting	VERB
+up	ADP
+mortars	NOUN
+,	PUNCT
+they	PRON
+only	ADV
+come	VERB
+out	ADV
+in	ADP
+the	DET
+open	ADJ
+when	SCONJ
+Americans	PROPN
+leave	VERB
+the	DET
+area	NOUN
+,	PUNCT
+then	ADV
+they	PRON
+start	VERB
+firing	VERB
+mortars	NOUN
+indiscriminately	ADV
+and	CCONJ
+shooting	VERB
+their	PRON
+AK	NOUN
+-	PUNCT
+47's	NOUN
+in	ADP
+the	DET
+air	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0007
+# text = They are setting the road blocks at the exact same positions they were during the war last year, which indicates they are the same people.
+They	PRON
+are	AUX
+setting	VERB
+the	DET
+road	NOUN
+blocks	NOUN
+at	ADP
+the	DET
+exact	ADV
+same	ADJ
+positions	NOUN
+they	PRON
+were	VERB
+during	ADP
+the	DET
+war	NOUN
+last	ADJ
+year	NOUN
+,	PUNCT
+which	PRON
+indicates	VERB
+they	PRON
+are	AUX
+the	DET
+same	ADJ
+people	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0008
+# text = And there is nothing we can do about it really, people who are suggesting that we go out and fight them are living in dream land.
+And	CCONJ
+there	PRON
+is	VERB
+nothing	PRON
+we	PRON
+can	AUX
+do	VERB
+about	ADP
+it	PRON
+really	ADV
+,	PUNCT
+people	NOUN
+who	PRON
+are	AUX
+suggesting	VERB
+that	SCONJ
+we	PRON
+go	VERB
+out	ADV
+and	CCONJ
+fight	VERB
+them	PRON
+are	AUX
+living	VERB
+in	ADP
+dream	NOUN
+land	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0009
+# text = Even the IP and ICDC have abandoned the neighbourhood, and those are trained and armed, so don't expect scared civilians to do anything except to hide inside and pray a helicopter or a tank doesn't bomb them, and also how are American soldiers going to distinguish the brave and valiant civilians from the Fedayeen?
+Even	ADV
+the	DET
+IP	PROPN
+and	CCONJ
+ICDC	PROPN
+have	AUX
+abandoned	VERB
+the	DET
+neighbourhood	NOUN
+,	PUNCT
+and	CCONJ
+those	PRON
+are	AUX
+trained	ADJ
+and	CCONJ
+armed	ADJ
+,	PUNCT
+so	ADV
+don't	AUX
+expect	VERB
+scared	ADJ
+civilians	NOUN
+to	PART
+do	VERB
+anything	PRON
+except	SCONJ
+to	PART
+hide	VERB
+inside	ADV
+and	CCONJ
+pray	VERB
+a	DET
+helicopter	NOUN
+or	CCONJ
+a	DET
+tank	NOUN
+doesn't	AUX
+bomb	VERB
+them	PRON
+,	PUNCT
+and	CCONJ
+also	ADV
+how	ADV
+are	AUX
+American	ADJ
+soldiers	NOUN
+going	VERB
+to	PART
+distinguish	VERB
+the	DET
+brave	ADJ
+and	CCONJ
+valiant	ADJ
+civilians	NOUN
+from	ADP
+the	DET
+Fedayeen	NOUN
+?	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0010
+# text = Everyone is apprehensive, there is some talk that April 9th and 10th are going to be bloody days.
+Everyone	PRON
+is	AUX
+apprehensive	ADJ
+,	PUNCT
+there	PRON
+is	VERB
+some	DET
+talk	NOUN
+that	SCONJ
+April	PROPN
+9th	NOUN
+and	CCONJ
+10th	NOUN
+are	AUX
+going	VERB
+to	PART
+be	AUX
+bloody	ADJ
+days	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0011
+# text = Most people haven't gone to work the last few days, although it seems that the rest of Baghdad is 'normal' (if you can define what normal is).
+Most	ADJ
+people	NOUN
+haven't	AUX
+gone	VERB
+to	ADP
+work	NOUN
+the	DET
+last	ADJ
+few	ADJ
+days	NOUN
+,	PUNCT
+although	SCONJ
+it	PRON
+seems	VERB
+that	SCONJ
+the	DET
+rest	NOUN
+of	ADP
+Baghdad	PROPN
+is	AUX
+'	PUNCT
+normal	ADJ
+'	PUNCT
+(	PUNCT
+if	SCONJ
+you	PRON
+can	AUX
+define	VERB
+what	PRON
+normal	NOUN
+is	VERB
+)	PUNCT
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0012
+# text = There are rumours about preparations by slum dwellers for another looting spree against banks, governmental and public property similar to the one that took place last April, and I have already overheard youngsters in my neighbourhood joking about it and saying things like "This time we will be the first to loot, we didn't get anything the last time".
+There	PRON
+are	VERB
+rumours	NOUN
+about	ADP
+preparations	NOUN
+by	ADP
+slum	NOUN
+dwellers	NOUN
+for	ADP
+another	DET
+looting	NOUN
+spree	NOUN
+against	ADP
+banks	NOUN
+,	PUNCT
+governmental	ADJ
+and	CCONJ
+public	ADJ
+property	NOUN
+similar	ADJ
+to	ADP
+the	DET
+one	NOUN
+that	PRON
+took	VERB
+place	NOUN
+last	ADJ
+April	PROPN
+,	PUNCT
+and	CCONJ
+I	PRON
+have	AUX
+already	ADV
+overheard	VERB
+youngsters	NOUN
+in	ADP
+my	PRON
+neighbourhood	NOUN
+joking	VERB
+about	ADP
+it	PRON
+and	CCONJ
+saying	VERB
+things	NOUN
+like	SCONJ
+"	PUNCT
+This	DET
+time	NOUN
+we	PRON
+will	AUX
+be	AUX
+the	DET
+first	ADJ
+to	PART
+loot	VERB
+,	PUNCT
+we	PRON
+didn't	AUX
+get	VERB
+anything	PRON
+the	DET
+last	ADJ
+time	NOUN
+"	PUNCT
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0013
+# text = Mosques are calling for donating blood, food, and medicine for Fallujah, and several convoys have already headed out for Fallujah, most of them returned later though.
+Mosques	NOUN
+are	AUX
+calling	VERB
+for	SCONJ
+donating	VERB
+blood	NOUN
+,	PUNCT
+food	NOUN
+,	PUNCT
+and	CCONJ
+medicine	NOUN
+for	ADP
+Fallujah	PROPN
+,	PUNCT
+and	CCONJ
+several	ADJ
+convoys	NOUN
+have	AUX
+already	ADV
+headed	VERB
+out	ADV
+for	ADP
+Fallujah	PROPN
+,	PUNCT
+most	ADJ
+of	ADP
+them	PRON
+returned	VERB
+later	ADV
+though	ADV
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0014
+# text = What irritates me is this sudden false 'solidarity' between Sunni and Shi'ite clerics, we all know that they would be glad to get at each others throats when they have the chance, and Shia clerics were describing Fallujan insurgents as 'Ba'athists', 'Saddamites', 'Wahhabis', and 'terrorists' just a few days ago.
+What	PRON
+irritates	VERB
+me	PRON
+is	AUX
+this	DET
+sudden	ADJ
+false	ADJ
+'	PUNCT
+solidarity	NOUN
+'	PUNCT
+between	ADP
+Sunni	ADJ
+and	CCONJ
+Shi'ite	ADJ
+clerics	NOUN
+,	PUNCT
+we	PRON
+all	DET
+know	VERB
+that	SCONJ
+they	PRON
+would	AUX
+be	AUX
+glad	ADJ
+to	PART
+get	VERB
+at	ADP
+each	DET
+others	ADJ
+throats	NOUN
+when	SCONJ
+they	PRON
+have	VERB
+the	DET
+chance	NOUN
+,	PUNCT
+and	CCONJ
+Shia	ADJ
+clerics	NOUN
+were	AUX
+describing	VERB
+Fallujan	ADJ
+insurgents	NOUN
+as	ADP
+'	PUNCT
+Ba'athists	PROPN
+'	PUNCT
+,	PUNCT
+'	PUNCT
+Saddamites	PROPN
+'	PUNCT
+,	PUNCT
+'	PUNCT
+Wahhabis	PROPN
+'	PUNCT
+,	PUNCT
+and	CCONJ
+'	PUNCT
+terrorists	NOUN
+'	PUNCT
+just	ADV
+a	DET
+few	ADJ
+days	NOUN
+ago	ADV
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0015
+# text = So what happened?
+So	ADV
+what	PRON
+happened	VERB
+?	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0016
+# text = I guess it's just the old new Arab 'Me against my brother, me and my brother against my cousin, me and my cousin against my enemy', or 'The enemy of my enemy is my friend' thing going on again.
+I	PRON
+guess	VERB
+it's	PRON
+just	ADV
+the	DET
+old	ADJ
+new	ADJ
+Arab	ADJ
+'	PUNCT
+Me	PRON
+against	ADP
+my	PRON
+brother	NOUN
+,	PUNCT
+me	PRON
+and	CCONJ
+my	PRON
+brother	NOUN
+against	ADP
+my	PRON
+cousin	NOUN
+,	PUNCT
+me	PRON
+and	CCONJ
+my	PRON
+cousin	NOUN
+against	ADP
+my	PRON
+enemy	NOUN
+'	PUNCT
+,	PUNCT
+or	CCONJ
+'	PUNCT
+The	DET
+enemy	NOUN
+of	ADP
+my	PRON
+enemy	NOUN
+is	AUX
+my	PRON
+friend	NOUN
+'	PUNCT
+thing	NOUN
+going	VERB
+on	ADP
+again	ADV
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0017
+# text = Speaking of Fallujah, we have only Al-Jazeera to rely on for our news from there.
+Speaking	VERB
+of	ADP
+Fallujah	PROPN
+,	PUNCT
+we	PRON
+have	VERB
+only	ADV
+Al	PROPN
+-	PUNCT
+Jazeera	PROPN
+to	PART
+rely	VERB
+on	ADP
+for	ADP
+our	PRON
+news	NOUN
+from	ADP
+there	ADV
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0018
+# text = They have sent over their top reporter Ahmed Mansour to the town, and he is spouting all kinds of propaganda hourly reminding me of Al-Sahhaf.
+They	PRON
+have	AUX
+sent	VERB
+over	ADV
+their	PRON
+top	ADJ
+reporter	NOUN
+Ahmed	PROPN
+Mansour	PROPN
+to	ADP
+the	DET
+town	NOUN
+,	PUNCT
+and	CCONJ
+he	PRON
+is	AUX
+spouting	VERB
+all	DET
+kinds	NOUN
+of	ADP
+propaganda	NOUN
+hourly	ADV
+reminding	VERB
+me	PRON
+of	ADP
+Al	PROPN
+-	PUNCT
+Sahhaf	PROPN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0019
+# text = "They are targetting ambulances", "American snipers are shooting children and pregnant women", and "They are using cluster bombs against civilians" is all you get to hear from him.
+"	PUNCT
+They	PRON
+are	AUX
+targetting	VERB
+ambulances	NOUN
+"	PUNCT
+,	PUNCT
+"	PUNCT
+American	ADJ
+snipers	NOUN
+are	AUX
+shooting	VERB
+children	NOUN
+and	CCONJ
+pregnant	ADJ
+women	NOUN
+"	PUNCT
+,	PUNCT
+and	CCONJ
+"	PUNCT
+They	PRON
+are	AUX
+using	VERB
+cluster	NOUN
+bombs	NOUN
+against	ADP
+civilians	NOUN
+"	PUNCT
+is	AUX
+all	DET
+you	PRON
+get	VERB
+to	PART
+hear	VERB
+from	ADP
+him	PRON
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0020
+# text = He did once make an unforgivable error when he mentioned that Fallujan militants were shooting at the Marines from the roofs of mosques and houses in Hay Al-Golan, but of course that is okay for Al-Jazeera.
+He	PRON
+did	AUX
+once	ADV
+make	VERB
+an	DET
+unforgivable	ADJ
+error	NOUN
+when	SCONJ
+he	PRON
+mentioned	VERB
+that	SCONJ
+Fallujan	ADJ
+militants	NOUN
+were	AUX
+shooting	VERB
+at	ADP
+the	DET
+Marines	PROPN
+from	ADP
+the	DET
+roofs	NOUN
+of	ADP
+mosques	NOUN
+and	CCONJ
+houses	NOUN
+in	ADP
+Hay	PROPN
+Al	PROPN
+-	PUNCT
+Golan	PROPN
+,	PUNCT
+but	CCONJ
+of	ADP
+course	NOUN
+that	PRON
+is	AUX
+okay	ADJ
+for	ADP
+Al	PROPN
+-	PUNCT
+Jazeera	PROPN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0021
+# text = Someone who called himself Abu Hafs from the Ibn Al-Khattab Brigades (another new group) was on Al-Jazeera describing the enormous casualties among the Marines and he sweared that American soldiers were mutilating the bodies of dead insurgents.
+Someone	PRON
+who	PRON
+called	VERB
+himself	PRON
+Abu	PROPN
+Hafs	PROPN
+from	ADP
+the	DET
+Ibn	PROPN
+Al	PROPN
+-	PUNCT
+Khattab	PROPN
+Brigades	PROPN
+(	PUNCT
+another	DET
+new	ADJ
+group	NOUN
+)	PUNCT
+was	AUX
+on	ADP
+Al	PROPN
+-	PUNCT
+Jazeera	PROPN
+describing	VERB
+the	DET
+enormous	ADJ
+casualties	NOUN
+among	ADP
+the	DET
+Marines	PROPN
+and	CCONJ
+he	PRON
+sweared	VERB
+that	SCONJ
+American	ADJ
+soldiers	NOUN
+were	AUX
+mutilating	VERB
+the	DET
+bodies	NOUN
+of	ADP
+dead	ADJ
+insurgents	NOUN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0022
+# text = Over 300 Iraqis are reported dead and 500 wounded in Fallujah alone.
+Over	ADV
+300	NUM
+Iraqis	PROPN
+are	AUX
+reported	VERB
+dead	ADJ
+and	CCONJ
+500	NUM
+wounded	ADJ
+in	ADP
+Fallujah	PROPN
+alone	ADV
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0023
+# text = Al-Iraqiyah tv said that ICDC were controlling Ramadi.
+Al	PROPN
+-	PUNCT
+Iraqiyah	PROPN
+tv	PROPN
+said	VERB
+that	SCONJ
+ICDC	PROPN
+were	AUX
+controlling	VERB
+Ramadi	PROPN
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0024
+# newpar id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-p0002
+# text = Azzaman newspaper mentioned an announcement signed by Abdul Aziz bin Muqrin, an Al-Qaeda operative in Saudi Arabia on an Islamic website 'the voice of Jihad', in which he stated that "although mutilating dead bodies is not originally permitted in Islam, but in this case it is allowed if Muslims use it against infidels to deter them from committing criminal actions".
+Azzaman	PROPN
+newspaper	NOUN
+mentioned	VERB
+an	DET
+announcement	NOUN
+signed	VERB
+by	ADP
+Abdul	PROPN
+Aziz	PROPN
+bin	PROPN
+Muqrin	PROPN
+,	PUNCT
+an	DET
+Al	PROPN
+-	PUNCT
+Qaeda	PROPN
+operative	NOUN
+in	ADP
+Saudi	ADJ
+Arabia	PROPN
+on	ADP
+an	DET
+Islamic	ADJ
+website	NOUN
+'	PUNCT
+the	DET
+voice	PROPN
+of	ADP
+Jihad	PROPN
+'	PUNCT
+,	PUNCT
+in	ADP
+which	PRON
+he	PRON
+stated	VERB
+that	SCONJ
+"	PUNCT
+although	SCONJ
+mutilating	VERB
+dead	ADJ
+bodies	NOUN
+is	AUX
+not	PART
+originally	ADV
+permitted	VERB
+in	ADP
+Islam	PROPN
+,	PUNCT
+but	ADV
+in	ADP
+this	DET
+case	NOUN
+it	PRON
+is	AUX
+allowed	VERB
+if	SCONJ
+Muslims	PROPN
+use	VERB
+it	PRON
+against	ADP
+infidels	NOUN
+to	PART
+deter	VERB
+them	PRON
+from	SCONJ
+committing	VERB
+criminal	ADJ
+actions	NOUN
+"	PUNCT
+.	PUNCT
+
+# sent_id = weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0025
+# text = He added that "America does not understand anything except the language of force and retaliation, they were kicked out of Somalia in humiliation after that soldier was dragged in Mogadishu for the whole world to see", and that "the day will come when the dead bodies of Americans and Jews would be dragged, defiled, and stepped on in the Arabian peninsula together with their agents and supporters".
+He	PRON
+added	VERB
+that	SCONJ
+"	PUNCT
+America	PROPN
+does	AUX
+not	PART
+understand	VERB
+anything	PRON
+except	ADP
+the	DET
+language	NOUN
+of	ADP
+force	NOUN
+and	CCONJ
+retaliation	NOUN
+,	PUNCT
+they	PRON
+were	AUX
+kicked	VERB
+out	ADP
+of	ADP
+Somalia	PROPN
+in	ADP
+humiliation	NOUN
+after	SCONJ
+that	DET
+soldier	NOUN
+was	AUX
+dragged	VERB
+in	ADP
+Mogadishu	PROPN
+for	SCONJ
+the	DET
+whole	ADJ
+world	NOUN
+to	PART
+see	VERB
+"	PUNCT
+,	PUNCT
+and	CCONJ
+that	SCONJ
+"	PUNCT
+the	DET
+day	NOUN
+will	AUX
+come	VERB
+when	SCONJ
+the	DET
+dead	ADJ
+bodies	NOUN
+of	ADP
+Americans	PROPN
+and	CCONJ
+Jews	PROPN
+would	AUX
+be	AUX
+dragged	VERB
+,	PUNCT
+defiled	VERB
+,	PUNCT
+and	CCONJ
+stepped	VERB
+on	ADP
+in	ADP
+the	DET
+Arabian	ADJ
+peninsula	PROPN
+together	ADV
+with	ADP
+their	PRON
+agents	NOUN
+and	CCONJ
+supporters	NOUN
+"	PUNCT
+.	PUNCT
+
+# newdoc id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600
+# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0001
+# newpar id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-p0001
+# text = Elena's motorcycle tour through the region around Chernobyl has revived interest in one of the most serious nuclear disasters in history.
+Elena's	PROPN
+motorcycle	NOUN
+tour	NOUN
+through	ADP
+the	DET
+region	NOUN
+around	ADP
+Chernobyl	PROPN
+has	AUX
+revived	VERB
+interest	NOUN
+in	ADP
+one	NUM
+of	ADP
+the	DET
+most	ADV
+serious	ADJ
+nuclear	ADJ
+disasters	NOUN
+in	ADP
+history	NOUN
+.	PUNCT
+
+# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0002
+# text = We all know what happened, but even to this day, there are many different versions and opinions on how it happened and what effect Chernobyl will have on the health of people affected by the fallout.
+We	PRON
+all	DET
+know	VERB
+what	PRON
+happened	VERB
+,	PUNCT
+but	CCONJ
+even	ADV
+to	ADP
+this	DET
+day	NOUN
+,	PUNCT
+there	PRON
+are	VERB
+many	ADJ
+different	ADJ
+versions	NOUN
+and	CCONJ
+opinions	NOUN
+on	ADP
+how	SCONJ
+it	PRON
+happened	VERB
+and	CCONJ
+what	DET
+effect	NOUN
+Chernobyl	PROPN
+will	AUX
+have	VERB
+on	ADP
+the	DET
+health	NOUN
+of	ADP
+people	NOUN
+affected	VERB
+by	ADP
+the	DET
+fallout	NOUN
+.	PUNCT
+
+# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0003
+# text = UPDATE:
+UPDATE	NOUN
+:	PUNCT
+
+# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0004
+# text = Now you can tour Chernobyl and write your own story.
+Now	ADV
+you	PRON
+can	AUX
+tour	VERB
+Chernobyl	PROPN
+and	CCONJ
+write	VERB
+your	PRON
+own	ADJ
+story	NOUN
+.	PUNCT
+
+# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0005
+# newpar id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-p0002
+# text = This is not a post about fault-finding or assigning blame.
+This	PRON
+is	AUX
+not	PART
+a	DET
+post	NOUN
+about	ADP
+fault	NOUN
+-	PUNCT
+finding	NOUN
+or	CCONJ
+assigning	VERB
+blame	NOUN
+.	PUNCT
+
