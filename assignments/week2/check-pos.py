@@ -27,6 +27,7 @@ for lineOrig, lineAnn in zip(open(sys.argv[1]), open(sys.argv[2])):
     # line needs annotation
     else:
         ann = lineAnn.split()
+        ori = lineOrig.split()
         if len(ann) < 2:
             print('ERROR: no annotation provided for token at line ' + str(lineCounter) + ':')
             print('orig: ' + lineOrig)
@@ -43,7 +44,7 @@ for lineOrig, lineAnn in zip(open(sys.argv[1]), open(sys.argv[2])):
                 print('annotation: ' + lineAnn)
                 print()
                 numErrs += 1
-            if ann[0] != lineOrig:
+            if ann[0] != ori[0]:
                 print('ERROR: a word is changed in the annotated file at line ' + str(lineCounter) + '. You are not supposed to edit the words:')
                 print('orig:       ' + lineOrig)
                 print('annotation: ' + lineAnn)
