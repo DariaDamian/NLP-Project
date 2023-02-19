@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{xcolor}
+\usepackage{fullpage}
+
+\title{test}
+\author{robvanderg }
+\date{February 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\begin{table}
+\centering
+\begin{tabular}{p{2cm} l l l l p{.2cm} l l l l }
+& \multicolumn{4}{c}{Input} & & \multicolumn{4}{c}{Training window} \\
+window 1 & \color{red} I & \color{blue} love & \color{blue} deep & learning & & $<$PAD$>$ & $<$PAD$>$ & love & deep \\
+window 2 & \color{blue} I & \color{red} love & \color{blue} deep & \color{blue} learning & & $<$PAD$>$ & I & deep & learning \\
+window 3 & \color{blue} I & \color{blue} love & \color{red} deep & \color{blue} learning & & I & love & learning & $<$PAD$>$\\
+window 4 & I & \color{blue} love & \color{blue} deep & \color{red} learning & & love & deep & $<$PAD$>$ & $<$PAD$>$\\
+\end{tabular}
+\caption{Windows for the sentence `I love deep learning', the target word is \color{red}red\color{black}, and the window is \color{blue}blue\color{black}. The window including padding is shown on the right.}
+\end{table}
+
+\end{document}
+
