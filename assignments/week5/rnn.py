@@ -86,7 +86,6 @@ def data2feats(inputData, word2idx, label2idx):
     return feats, labels
 
 train_feats, train_labels = data2feats(train_data, token_to_id, tag_to_id)
-dev_feats, dev_labels = data2feats(train_data, token_to_id, tag_to_id)
 
 
 # convert to batches
